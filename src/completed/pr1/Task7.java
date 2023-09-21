@@ -6,7 +6,7 @@ import java.util.Scanner;
 (использовать управляющую конструкцию цикла), проверить
 работу метода.
  */
-public class N7 {
+public class Task7 {
     public static int factorial(int a){
         if (a==1 || a==2){
             return a;

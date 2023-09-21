@@ -6,7 +6,7 @@ import java.util.Scanner;
 вводится и считается в цикле сумма элементов целочисленного массива, а также среднее арифметическое его
 элементов результат выводится на экран. Использовать цикл for.
  */
-public class N3 {
+public class Task3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] a = new int[10];

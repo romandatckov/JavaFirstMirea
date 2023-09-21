@@ -4,7 +4,7 @@ package completed.pr1;
 Написать программу, в результате работы которой
 выводятся на экран первые 10 чисел гармонического ряда (форматировать вывод).
  */
-public class N6 {
+public class Task6 {
     public static void main(String[] args) {
         double gar = 0;
         for (int i=1; i<=11; i++){

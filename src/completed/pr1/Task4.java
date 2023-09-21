@@ -6,7 +6,7 @@ import java.util.Scanner;
 с клавиатуры считается сумма элементов целочисленного массива с помощью циклов do while, while,
 также необходимо найти максимальный и минимальный элемент в массиве, результат выводится на экран.
  */
-public class N4 {
+public class Task4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int mini = 10000;
