@@ -25,11 +25,7 @@ public class Group {
     }
 
     public void deleteLast(){
-        Student st = student;
-        while (st.getNext().getNext()!=null){
-            st = st.getNext();
-        }
-        st.setNext(null);
+        this.getLast().setNext(null);
     }
     public boolean isEmpty(){
         return student.getNext() == null;
