@@ -13,6 +13,5 @@ public class Tester {
         System.out.println(c);
         c.sort4();
         System.out.println(c);
-
     }
 }
