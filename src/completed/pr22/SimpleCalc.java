@@ -1,4 +1,4 @@
-package completed.tasks22;
+package completed.pr22;
 import java.util.Stack;
 import java.util.Scanner;
 public class SimpleCalc {
@@ -42,7 +42,6 @@ public class SimpleCalc {
                         break;
                 }
             }
-
         } while(!current.equals("result"));
         System.out.println(calculator.peek());
     }
